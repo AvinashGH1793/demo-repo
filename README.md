@@ -7,3 +7,7 @@ First update in this file. Missed one change which included here
 ## Subheader
 
 Wacth me grow!
+
+## Local development 
+
+1. Open index.html in your browser
